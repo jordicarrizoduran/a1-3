@@ -1,0 +1,11 @@
+En aquesta pràctica he començat per la screen principal començant pel header i el footer. En ambdos casos he trobat online la manera més senzilla de fer-ho. Un detall important és que durant aquesta fase he posat el colors de fons individualment.
+
+Després m'he centrat en el body de la 1a screen. He anat creat elements dins la columna i he conegut el sizedbox. La part més complicada han sigut les cards, ja que primer ho vaig fer d'una manera fins que vaig adonar-me que havíem d'utilitzar el widget CARD. Aquí també vaig estar practicant amb l'expanded, fins que vaig veure el Spacer. El més graciós és que l'Spacer és en realitat un Expanded.
+
+On vaig perdre una mica de temps va ser en el Circle perquè se'm veig molt gros i no trobava com canviar-ho. Em vaig adonar que en un dels settings que havia posat seguint l'exemple de la pàgina de flutter era precisament el diàmetre del cercle.
+
+El següent que vaig fer va ser una 2a screen amb un header per poder treballar amb el push i el pop. Aquí vaig seguir bastant el video i em vaig ajudar de chatgpt per veure els meus errors. Haig de dir que he trobat una manera de fer servir la IA de manera que, en comptes de fer-me de xivato, em faci de segon professor. Ho provo jo diverses vegades i, si no me'n surto, li demano que em digui on està l'error. Per desencallar m'ha anat molt bé. També li demano que m'expliqui els codis que segueixo del llibre si hi ha alguna cosa que no la veig clara (com em passa amb els state que parlaré a continuació).
+
+Un cop fet el push, em vaig centrar en fer la screen 2. Aquí és on intento jugar amb el colorScheme i crec que més o menys he entès per on anar. El que m'ha costat més han estat les barres i el state. Aquí sí que haig d'agrair a chatgpt l'ajuda. Sense la IA no me n'hagués sortit. Porto l'state molt molt verd de react i adonar-me que bàsicament havia de canviar del "stateless" al "statefull" i definir-lo m'ha ajudat a començar a entendre tot això tan essencial en la programació d'apps.
+
+Finalment, he apricat el HERO.
